@@ -4,5 +4,10 @@
 }
 
 .rate-currency {
-    margin-right: 10px;
+    flex: 50%;
+    padding-bottom: 7px;
+}
+
+.cost-currency{
+    flex: 50%;
 }

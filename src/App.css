@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-size: 15px;
 }
 
 .App-logo {
@@ -37,8 +38,6 @@
   }
 }
 
-/*.loader-wrapper {*/
-/*  display: flex;*/
-/*  align-items: center;*/
-/*  justify-content: center;*/
-/*}*/
+.tittle-wrapper {
+  margin-bottom: 10px;
+}

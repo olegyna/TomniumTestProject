@@ -46,10 +46,10 @@ class App extends React.Component {
 
     return (
         <div className="App">
-          <div>
+          <div className='tittle-wrapper'>
             <label>{`Current date ${new Date(timestamp*1000).toLocaleDateString()}`}  </label>
           </div>
-          <div>
+          <div className='tittle-wrapper'>
             <label>{`Base currency ${base}`}  </label>
           </div>
           <RatesList rates={rates}/>
