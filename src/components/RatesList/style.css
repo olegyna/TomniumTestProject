@@ -1,0 +1,8 @@
+.rates-wrapper {
+    display : flex;
+    justify-content: center;
+}
+
+.rate-currency {
+    margin-right: 10px;
+}
